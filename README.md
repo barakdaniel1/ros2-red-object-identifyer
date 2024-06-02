@@ -1,4 +1,4 @@
-# Ros2 Humble - Red Object Identifyer
+# Ros2 Humble - Red Object Identifier
 
 This project uses a usb camera (laptop camera also works), identifies red objects, draws a circle around the object,  
 and also draws an X in the center of it.
